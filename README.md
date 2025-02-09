@@ -51,7 +51,7 @@ Design Patterns Implemented:
 - Set the main file as the startup project and run it.
 
 📝 How to Play
-**Command	Description**
+* Command	Description
 - go <direction>	Moves the player to a connected room (north, south, east, west).
 - back	Returns to the previous room.
 - open <direction>	Opens a door in the given direction.

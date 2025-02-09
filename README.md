@@ -44,12 +44,12 @@ Design Patterns Implemented:
 
 🔹 Prerequisites
 Install .NET SDK.
+
 A C# IDE (Visual Studio recommended) or a command-line compiler.
   
 🔹 Run the Game
-Open the project in Visual Studio.
-Set the main file as the startup project.
-Click Run.
+- Open the project in Visual Studio.
+- Set the main file as the startup project and run it.
 
 📝 How to Play
 **Command	Description**

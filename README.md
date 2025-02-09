@@ -43,9 +43,8 @@ Design Patterns Implemented:
 🚀 Installation & Setup
 
 🔹 Prerequisites
-Install .NET SDK.
-
-A C# IDE (Visual Studio recommended) or a command-line compiler.
+- Install .NET SDK.
+- A C# IDE (Visual Studio recommended) or a command-line compiler.
   
 🔹 Run the Game
 - Open the project in Visual Studio.

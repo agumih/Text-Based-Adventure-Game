@@ -3,11 +3,13 @@
 A Console-Based Interactive Adventure Game using OOP & Design Patterns
 
 📌 Project Overview
+
 This is a fully interactive text-based adventure game developed in C# using object-oriented programming (OOP) principles and design patterns. The game allows players to navigate through different rooms, interact with NPCs, pick up and store items, unlock doors, and complete quests.
 
 Players can use command-based input to control their actions, making it a flexible and immersive console-based game.
 
 🎮 Features
+
 🔹 Player Interactions
 - Move between rooms using go <direction>.
 - Use back to return to the previous room (supports full backtracking).
@@ -28,24 +30,20 @@ Players can use command-based input to control their actions, making it a flexib
 - Quest System: NPCs request items, and fulfilling their requests can change the game state.
 - Game Victory Condition: Completing NPC quests leads to a win state.
 
-🛠️ Technologies & Concepts Used
+🛠️ Technologies & Concepts Used:
 Language: C#
-Programming Concepts: Object-Oriented Programming (OOP)
-Data Structures: Stacks, Dictionaries, Lists
+- Programming Concepts: Object-Oriented Programming (OOP)
+- Data Structures: Stacks, Dictionaries, Lists
 Design Patterns Implemented:
-Command Pattern – For executing user commands (e.g., go, open, give, peek).
-Singleton Pattern – For managing the GameWorld instance.
-Observer Pattern – For triggering game events like entering rooms.
-Factory Pattern – For dynamic object creation.
-🚀 Installation & Setup
+- Command Pattern – For executing user commands (e.g., go, open, give, peek).
+- Singleton Pattern – For managing the GameWorld instance.
+- Observer Pattern – For triggering game events like entering rooms.
+- Factory Pattern – For dynamic object creation.
 
+🚀 Installation & Setup
 🔹 Prerequisites
 Install .NET SDK (if not already installed) 👉 Download Here
 A C# IDE (Visual Studio recommended) or a command-line compiler.
-🔹 Clone the Repository
-
-  git clone https://github.com/your-username/text-based-adventure-game.git
-  cd text-based-adventure-game
   
 🔹 Run the Game
 Open the project in Visual Studio.

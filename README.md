@@ -41,8 +41,9 @@ Design Patterns Implemented:
 - Factory Pattern – For dynamic object creation.
 
 🚀 Installation & Setup
+
 🔹 Prerequisites
-Install .NET SDK (if not already installed) 👉 Download Here
+Install .NET SDK.
 A C# IDE (Visual Studio recommended) or a command-line compiler.
   
 🔹 Run the Game

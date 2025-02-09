@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "73NtzF93Hrc=",
+  "success": true,
+  "projectFilePath": "/Users/del/Downloads/StarterGame/StarterGame/StarterGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/del/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/del/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/del/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.33/microsoft.netcore.app.host.osx-arm64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

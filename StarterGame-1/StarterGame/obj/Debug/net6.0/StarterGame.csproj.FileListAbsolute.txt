@@ -1,0 +1,14 @@
+/Users/del/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/del/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfoInputs.cache
+/Users/del/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.AssemblyInfo.cs
+/Users/del/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.csproj.CoreCompileInputs.cache
+/Users/del/Downloads/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame
+/Users/del/Downloads/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.deps.json
+/Users/del/Downloads/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.runtimeconfig.json
+/Users/del/Downloads/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.dll
+/Users/del/Downloads/StarterGame/StarterGame/bin/Debug/net6.0/StarterGame.pdb
+/Users/del/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.dll
+/Users/del/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/refint/StarterGame.dll
+/Users/del/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.pdb
+/Users/del/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/StarterGame.genruntimeconfig.cache
+/Users/del/Downloads/StarterGame/StarterGame/obj/Debug/net6.0/ref/StarterGame.dll
